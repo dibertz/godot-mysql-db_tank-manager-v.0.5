@@ -20,6 +20,8 @@ Windows
 
 <b>Requisitos:</b>
 
+Godot_v3.2.1-stable_win64
+
 xampp-windows-x64-8.0.3-0-VS16-installer
 
 Apache NetBeans IDE 12.3
@@ -40,6 +42,8 @@ Abrir el editor de Apache NetBeans IDE 12.3
 
 Editar los archivos auth.php y ui_form.gd antes de comenzar a compilar en Windows (debes editar estos archivos con el nombre del servidor, usuario, clave, nombre de la base de datos y tabla de MySQL, así como también el script .gd con su respectiva ruta donde los tienes alojado).
 
+Importar el archito project.godot (dentro del directorio XAMPP)
+
 </br>
 
 <b>Compilando en Windows:</b>
@@ -48,9 +52,13 @@ Instalar el template que haga necesario para la exportación Godot / HTML5. Aseg
 
 Exportad a HTML, añadi dentro el archivo auth.php y subilo al servidor que tienes contratado sobre la carpeta public_html. No olvides de importar la base de datos junto con la tabla Db_Logs.sql desde el panel de MySQL.
 
+</br>
+
 <b>Métodos:</b>
 
 Puedes encontrar el ejemplo de uso en https://www.facebook.com/dibertz/videos/123023299838011
+
+</br>
 
 <b>FAQ:</b>
 
