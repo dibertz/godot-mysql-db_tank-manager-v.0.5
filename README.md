@@ -2,9 +2,15 @@
 <b>A simple leaderboard with MySQL connection into Godot Engine 3.2</b>
 
 
-Warning : Languaje Spanish
+Warning : Spanish Language
 
 Si usas este módulo, hacedmelo saber. Deja una estrella. 
+
+</br>
+
+<b>Intrducción:</b>
+
+db_tank-manager-v.0.5 es una herramienta partícipe del sistema de administración que es utilizado por los servidores online de DDTANK 337 y OASGAMES junto a Cirno y asociados migrando gran parte del desarrollo flash (obsoleto) a un entorno de desarrollo con tecnologías de programación actual. Actualiza datos, recoge información y acredita bonos a cada uno de los usuarios registrados en la base de datos del servidor. Si usted es un programador o programadora experimentado/a le invitamos a participar en añadir mejoras al sistema para luego resubirlo a GitHub con su nueva versión disponible, con el fin de aportar buen valor a la fundación Godot.
 
 </br>
 
@@ -42,7 +48,7 @@ Abrir el editor de Apache NetBeans IDE 12.3
 
 Editar los archivos auth.php y ui_form.gd antes de comenzar a compilar en Windows (debes editar estos archivos con el nombre del servidor, usuario, clave, nombre de la base de datos y tabla de MySQL, así como también el script .gd con su respectiva ruta donde los tienes alojado).
 
-Importar el archito project.godot (dentro del directorio XAMPP)
+Importar el archivo project.godot (dentro del directorio XAMPP)
 
 </br>
 
@@ -56,7 +62,7 @@ Exportad a HTML, añadi dentro el archivo auth.php y subilo al servidor que tien
 
 <b>Métodos:</b>
 
-Puedes encontrar el ejemplo de uso en https://www.facebook.com/dibertz/videos/123023299838011
+Puedes encontrar el ejemplo de uso en ➤ https://www.facebook.com/101542401199619/videos/497277711705149
 
 </br>
 
