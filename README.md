@@ -4,9 +4,6 @@
 </br>
 
 Warning : Spanish Language
-
-</br>
-
 Si usas este módulo, hacedmelo saber. Deja una estrella. 
 
 </br>
@@ -19,7 +16,7 @@ db_tank-manager-v.0.5 es una herramienta partícipe del sistema de administraci�
 
 <b>What does it:</b>
 
-Actualiza datos, recoge información y acredita bonos a cada uno de los usuarios registrados en la base de datos del servidor. Si usted es un programador o programadora experimentado/a le invitamos a participar en añadir mejoras al sistema para luego resubirlo a GitHub con su nueva versión disponible, esto lo hacemos con el fin de aportar buen valor a la fundación Godot.
+Actualiza datos, recoge información y acredita bonos en tiempo real a cada uno de los usuarios registrados en la base de datos del servidor desde el propio motor de videojuegos Godot Engine. Si usted es un programador o programadora experimentado/a le invitamos a participar en añadir mejoras al sistema para luego resubirlo a GitHub con su nueva versión disponible, esto lo hacemos con el fin de aportar buen valor a la fundación Godot.
 
 </br>
 
