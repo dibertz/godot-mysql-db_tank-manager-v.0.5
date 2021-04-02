@@ -15,6 +15,12 @@ Si usas este módulo, hacedmelo saber. Deja una estrella.
 
 db_tank-manager-v.0.5 es una herramienta partícipe del sistema de administración que es utilizado por los servidores online de DDTANK 337 y OASGAMES junto a Cirno y asociados migrando gran parte del desarrollo flash (obsoleto) a un entorno de desarrollo con tecnologías de programación actual.
 
+</br>
+
+<b>What does it:</b>
+
+</br>
+
 Actualiza datos, recoge información y acredita bonos a cada uno de los usuarios registrados en la base de datos del servidor. Si usted es un programador o programadora experimentado/a le invitamos a participar en añadir mejoras al sistema para luego resubirlo a GitHub con su nueva versión disponible, esto lo hacemos con el fin de aportar buen valor a la fundación Godot.
 
 </br>
